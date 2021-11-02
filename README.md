@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, my name is Rafael and these are my works
 
-<!--
-**RafaelSolVargas/RafaelSolVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I'm currently learning and creating some FullStack Applications with React and NodeJs to practice
+- 📧 You can contact me sending an email
 
-Here are some ideas to get you started:
+## 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rafaelsolvargas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsolvargas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsolvargas&layout=compact&langs_count=7&theme=github_dark&langs_count=3"/>
+</div>
+<div><br>
+  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafael-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+  
+  ## Contact Me
+<div> 
+  <a href = "mailto:rafael.s.vargas18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+  ## My Projects
+  - [My Tasks](https://github.com/RafaelSolVargas/MyTasks) - An Application in React and NodeJs that allows Users to create and manage their tasks
+  - [Bakery System](https://github.com/RafaelSolVargas/BakerySystem) - A Desktop Application System in Python that can be used by the cashier and the manager of some Bakery to controll the register flow 
+  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
