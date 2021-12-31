@@ -30,12 +30,12 @@
 
   ## My Projects
   - [My Tasks](https://github.com/RafaelSolVargas/MyTasks) - An Application in React and NodeJs that allows Users to create and manage their tasks
-  - [Bakery System](https://github.com/RafaelSolVargas/BakerySystem) - A Desktop Application System in Python that can be used by the cashier and the manager of some Bakery to controll the register flow 
-  
+  - [Vulkan](https://github.com/RafaelSolVargas/Vulkan) - A Discord BOT in Python that can play musics from Spotify and Youtube, it also does it also does a lot more little things 
+ 
 <br>
   
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsolvargas&repo=mytasks&theme=github_dark)](https://github.com/rafaelsolvargas/mytasks)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsolvargas&repo=bakerysystem&theme=github_dark)](https://github.com/rafaelsolvargas/bakerysystem)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsolvargas&repo=vulkan&theme=github_dark)](https://github.com/rafaelsolvargas/vulkan)
    
    
  
