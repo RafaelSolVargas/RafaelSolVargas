@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaelsolvargas">
-  <img height="180em" src="https://github-readme-stats-git-master-rafaelsolvargas.vercel.app/api?username=rafaelsolvargas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-rafaelsolvargas.vercel.app/api/top-langs/?username=rafaelsolvargas&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsolvargas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsolvargas&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
 <div align="center"><br>
@@ -37,8 +37,8 @@
  
 <br>
   
- [![Readme Card](https://github-readme-stats-git-master-rafaelsolvargas.vercel.app/api/pin/?username=rafaelsolvargas&repo=vulkan&theme=github_dark)](https://github.com/rafaelsolvargas/vulkan)
- [![Readme Card](https://github-readme-stats-git-master-rafaelsolvargas.vercel.app/api/pin/?username=rafaelsolvargas&repo=thebindingofisaac&theme=github_dark)](https://github.com/rafaelsolvargas/thebindingofisaac)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsolvargas&repo=vulkan&theme=github_dark)](https://github.com/rafaelsolvargas/vulkan)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsolvargas&repo=thebindingofisaac&theme=github_dark)](https://github.com/rafaelsolvargas/thebindingofisaac)
    
    
  
