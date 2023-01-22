@@ -1,7 +1,6 @@
 ## Hi, I'm a BackEnd Developer and these are my works
 
-- 👨‍🎓 I really do like working in the BackEnd context
-- 🖥️ I'm currently working with C# and PostgreSQL
+- 🖥️ I'm currently working as a BackEnd Developer using C# and PostgreSQL
 - 🎧 If you want a Music Bot for your discord server check out my [Vulkan Project](https://github.com/RafaelSolVargas/Vulkan)
 
 ## 
