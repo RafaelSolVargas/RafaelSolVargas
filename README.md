@@ -1,6 +1,7 @@
 ## Hi, I'm a BackEnd Developer and these are my works
 
-- 🖥️ I'm currently working as a BackEnd Developer using C# and PostgreSQL
+- 🖥️ A BackEnd Developer working with .NET Core and .NET Framework.
+- 🖥️ I am very interested in database management and clean architecture.
 - 🎧 If you want a Music Bot for your discord server check out my [Vulkan Project](https://github.com/RafaelSolVargas/Vulkan)
 
 ## 
